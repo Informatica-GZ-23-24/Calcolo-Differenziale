@@ -3,13 +3,12 @@
 Per inserire nuovi esercizi basta aprire una `Issue` e inserire all'interno i file.
 
 #### Passaggi
-1. Aprire la tab `Issue` e premere `New`
-![[first.jpg]]
-
+1. Aprire la tab `Issue` e premere `New` 
+![primo passaggio](/img/first.jpg)
 2. Inserire come titolo `Cognome Matricola Data (degli esercizi)`. Usare il tasto evidenziato per allegare il pdf
-   ![[second.jpg]]
+   ![secondo passaggio](/img/second.jpg)
 3. Inviare la Issue
-    ![[third.jpg]]
+    ![terzo passaggio](/img/third.jpg)
    
 ### Formato
 I file dovranno essere in formato `pdf` e contenere traccia e esercizi svolti.
